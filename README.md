@@ -5,6 +5,7 @@ By Shubham
 Here's the Live Deployed Website ![Project 1](https://img.shields.io/badge/Project-1-brightgreen)
 
 [Link to the Project 1]("https://trending2025.netlify.app/") 
+https://trending2025.netlify.app/
 
 ![Completed Website](./readmeImages/Completed%20Screenshot.jpg)
 
@@ -15,6 +16,4 @@ Here's the Live Deployed Website ![Project 1](https://img.shields.io/badge/Proje
 - I learned about the ways of positionining elements in the HTML and CSS.
 - I learned about z indexing to stack elements on top of each other.
 
-## This project took a lot of time to complete.
-
-- I spent about 7.30 hours on this project.
+## This project took around 4.30 hours to complete.
