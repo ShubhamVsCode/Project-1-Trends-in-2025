@@ -2,9 +2,9 @@
 
 By Shubham
 
-Here's the Live Deployed Website
+Here's the Live Deployed Website ![Project 1](https://img.shields.io/badge/Project-1-brightgreen)
 
-[Link to the ]("https://trending2025.netlify.app") ![Project 1](https://img.shields.io/badge/Project-1-brightgreen)
+[Link to the Project 1]("https://trending2025.netlify.app/") 
 
 ![Completed Website](./readmeImages/Completed%20Screenshot.jpg)
 
