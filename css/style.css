@@ -36,8 +36,6 @@
   align-items: center;
 }
 
-.search-icon {
-}
 .square {
   position: absolute;
   bottom: 0px;
@@ -69,9 +67,6 @@ button {
   position: absolute;
   z-index: -1;
   bottom: -70px;
-}
-
-.hero-container-left {
 }
 
 .hero-container-right {
@@ -119,9 +114,6 @@ button {
   justify-content: center;
   font-family: "Poppins", Helvetica, sans-serif;
   margin-top: 5rem;
-}
-
-.icons {
 }
 
 .contact-heading {
